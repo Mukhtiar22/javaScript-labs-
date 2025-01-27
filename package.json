@@ -1,0 +1,15 @@
+{
+  "name": "javascript-labs-",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Lab A JavaScript lab exercise to practice iteration using for...of and for...in loops, and working with prototype inheritance. This project is part of a Coursera course on JavaScript programming. Author: Mukhtiar Ali Soomro",
+  "main": "addFive.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
